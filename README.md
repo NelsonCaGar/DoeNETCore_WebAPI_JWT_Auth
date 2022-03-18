@@ -1,9 +1,9 @@
-.NET Core Web API (JWT Auth) Example
+.NET Core Web API (JWT Auth)
 ========
 ## Get started
 ### Build & Run
 ```sh
-git clone https://github.com/GLEBR1K/webapi-jwt-example jwt
+git clone https://github.com/DannyMonge/DotNETCore_WebAPI_JWT_Auth.git
 cd jwt\WebAPI_Example
 dotnet run
 ```
