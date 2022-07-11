@@ -3,7 +3,7 @@
 ## Get started
 ### Build & Run
 ```sh
-git clone https://github.com/DannyMonge/DotNETCore_WebAPI_JWT_Auth.git
+git clone https://github.com/nelsongarx/DotNETCore_WebAPI_JWT_Auth.git
 cd jwt\WebAPI_Example
 dotnet run
 ```
